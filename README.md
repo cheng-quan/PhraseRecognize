@@ -1,4 +1,4 @@
-PhraseRecognize
+Phrase Recognize
 ===============
 
 Recognize phrase from a text file.
